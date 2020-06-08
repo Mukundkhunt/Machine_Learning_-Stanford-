@@ -6,7 +6,7 @@ Try to solve all the quiz by yourself first, but if you get stuck somewhere then
 - Programming Assigment
 
 ## Certificate
-* [Verified Certificate](www.google.com)
+* [Coming soon](www.google.com)
 
 ## Reference
 
