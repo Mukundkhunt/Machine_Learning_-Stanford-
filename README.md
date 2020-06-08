@@ -5,3 +5,9 @@ Try to solve all the quiz by yourself first, but if you get stuck somewhere then
 ## Contets
 - Programming Assigment
 
+## Certificate
+* [Verified Certificate](www.google.com)
+
+## Reference
+
+[1]. [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
