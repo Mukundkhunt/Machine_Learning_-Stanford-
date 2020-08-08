@@ -6,7 +6,7 @@ Try to solve all the quiz by yourself first, but if you get stuck somewhere then
 - Programming Assigment
 
 ## Certificate
-* [Coming soon](www.google.com)
+* [Standford Online](https://coursera.org/share/ede4ee3f47ec55fb3ca71b9486987755)
 
 ## Reference
 
